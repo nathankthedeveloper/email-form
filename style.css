@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+  }
+  
+  main{
+    margin: 10px;
+  }
+  main h3{
+    margin-bottom: 2px;
+  }
+  input {
+    margin-top: 0;
+    width: 100%;
+
+  }
+
+  textarea{
+    height: 520px;
+    width: 100%;
+  }
+
+  button{
+    margin-top: 40px;
+    background-color: gray;
+  }
+
+  button{
+    border-radius: 10%;
+  }
+
+
+
+  
